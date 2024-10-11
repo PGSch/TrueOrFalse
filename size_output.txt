@@ -1,0 +1,71 @@
+106G	/Users/Patrick
+ 60G	/Users/Patrick/Library
+ 14G	/Users/Patrick/.julia(REVOCERY)
+ 10G	/Users/Patrick/anaconda3
+6.0G	/Users/Patrick/Pictures
+3.7G	/Users/Patrick/Music
+2.9G	/Users/Patrick/.julia
+2.1G	/Users/Patrick/Movies
+1.7G	/Users/Patrick/.gradle
+1.3G	/Users/Patrick/Downloads
+961M	/Users/Patrick/PycharmProjects
+797M	/Users/Patrick/.vscode
+345M	/Users/Patrick/github
+240M	/Users/Patrick/Documents
+231M	/Users/Patrick/.m2
+178M	/Users/Patrick/ImageMagick-7.1.1-38
+163M	/Users/Patrick/.atom
+121M	/Users/Patrick/.config
+105M	/Users/Patrick/AutoCoderBKP
+ 84M	/Users/Patrick/bin
+ 78M	/Users/Patrick/.local
+ 67M	/Users/Patrick/.cache
+ 61M	/Users/Patrick/.tldrc
+ 61M	/Users/Patrick/.internet_chess_club
+ 43M	/Users/Patrick/.npm
+ 42M	/Users/Patrick/.docker
+ 16M	/Users/Patrick/.oh-my-zsh
+ 14M	/Users/Patrick/.pulsarctl
+8.5M	/Users/Patrick/.kube
+8.4M	/Users/Patrick/pulsar-helm-chart
+3.6M	/Users/Patrick/.rstudio-desktop
+3.3M	/Users/Patrick/IdeaProjects
+3.3M	/Users/Patrick/Applications
+3.3M	/Users/Patrick/.anaconda
+2.1M	/Users/Patrick/.ipython
+544K	/Users/Patrick/.matplotlib
+420K	/Users/Patrick/.dropbox
+388K	/Users/Patrick/.thumbnails
+216K	/Users/Patrick/.r
+188K	/Users/Patrick/.gitkraken
+124K	/Users/Patrick/.theano
+ 52K	/Users/Patrick/Desktop
+ 48K	/Users/Patrick/.emacs.d
+ 44K	/Users/Patrick/.jupyter
+ 36K	/Users/Patrick/Autocoder
+ 36K	/Users/Patrick/.ssh
+ 28K	/Users/Patrick/my_scripts
+ 24K	/Users/Patrick/local-storage-provisioner
+ 24K	/Users/Patrick/.subversion
+ 16K	/Users/Patrick/.bash_sessions
+ 12K	/Users/Patrick/Public
+ 12K	/Users/Patrick/Chess Database
+ 12K	/Users/Patrick/.zsh_sessions
+8.0K	/Users/Patrick/.zsh
+8.0K	/Users/Patrick/.terraform.d
+8.0K	/Users/Patrick/.oracle_jre_usage
+8.0K	/Users/Patrick/.fontconfig
+8.0K	/Users/Patrick/.conda
+8.0K	/Users/Patrick/.aws
+4.0K	/Users/Patrick/scripts
+4.0K	/Users/Patrick/.streamlit
+4.0K	/Users/Patrick/.nchsoftware
+4.0K	/Users/Patrick/.mono
+4.0K	/Users/Patrick/.idlerc
+4.0K	/Users/Patrick/.dbus-keyrings
+4.0K	/Users/Patrick/.continuum
+  0B	/Users/Patrick/Sites
+  0B	/Users/Patrick/Postman
+  0B	/Users/Patrick/.swiftpm
+  0B	/Users/Patrick/.maplesoft
+  0B	/Users/Patrick/.Trash

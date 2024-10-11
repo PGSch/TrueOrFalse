@@ -1,0 +1,43 @@
+[
+    {
+        "question": "The Great Wall of China is visible from space.",
+        "answer": "False"
+    },
+    {
+        "question": "Light travels faster than sound.",
+        "answer": "True"
+    },
+    {
+        "question": "Mount Everest is the tallest mountain in the world.",
+        "answer": "True"
+    },
+    {
+        "question": "The capital of Australia is Sydney.",
+        "answer": "False"
+    },
+    {
+        "question": "Venus is the closest planet to the Sun.",
+        "answer": "False"
+    },
+    {
+        "question": "Humans have 5 senses.",
+        "answer": "True"
+    },
+    {
+        "question": "Sharks are mammals.",
+        "answer": "False"
+    },
+    {
+        "question": "The chemical symbol for gold is Au.",
+        "answer": "True"
+    },
+    {
+        "question": "The speed of light is approximately 300,000 kilometers per second.",
+        "answer": "True"
+    },
+    {
+        "question": "An octopus has three hearts.",
+        "answer": "True"
+    }
+]
+
